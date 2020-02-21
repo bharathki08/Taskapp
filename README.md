@@ -1,6 +1,7 @@
 # Taskapp built using Node.js 
+Install Node.js and npm. Pull the repository into your machine.
 
-Commands:
+Run the Commands:
 
 To add a new note: node app.js add --title="<<Title>>" --body="<<DESCRIPTION>>"
 
