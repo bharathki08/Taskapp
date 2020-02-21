@@ -3,7 +3,7 @@ Install Node.js and npm. Pull the repository into your machine.
 
 Run the Commands:
 
-To add a new note: node app.js add --title="<<Title>>" --body="<<DESCRIPTION>>"
+To add a new note: node app.js add --title="<<Title>>" --body="<<Desc>>"
 
 To remove a note: node app.js remove --title="<<TITLE>>"
   
